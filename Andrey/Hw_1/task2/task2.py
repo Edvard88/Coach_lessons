@@ -3,6 +3,7 @@
 
 #Articles
 # https://webdevblog.ru/realizaciya-shablona-singleton-v-python/
+# https://coderoad.ru/6760685/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-singleton-%D0%B2-Python
 
 # Method1 Decorator
 def singleton1(class_):
@@ -22,6 +23,7 @@ class MyClass1:
     def return_random(self):
         print("Return random")
         return 1
+
 
 
 # Плюсы
